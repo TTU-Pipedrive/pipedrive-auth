@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.15.4",
-    "pipedrive": "git+https://github.com/TTU-Pipedrive/client-nodejs.git#3b0d985459ac5cf9d63c59cdf3703c150eb1a0fe",
+    "pipedrive": "git+https://github.com/TTU-Pipedrive/client-nodejs.git#a8fd5cdc89daa9b8800aeb274f7cd7118808811d",
     "querystring": "^0.2.0",
     "request": "^2.81.0"
   }
