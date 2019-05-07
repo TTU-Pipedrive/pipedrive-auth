@@ -1,0 +1,15 @@
+{
+  "name": "pipedrive-oauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "pipedrive": "git+https://github.com/TTU-Pipedrive/client-nodejs.git#a8fd5cdc89daa9b8800aeb274f7cd7118808811d",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}
